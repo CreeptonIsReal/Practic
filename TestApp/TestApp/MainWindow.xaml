@@ -1,0 +1,46 @@
+<Window x:Class="TestApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="180" Width="600"
+        MinHeight="180" MinWidth="600"
+
+        WindowStartupLocation="CenterScreen"
+        >
+
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="20"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="20"/>
+    </Grid.RowDefinitions>
+
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="15"/>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="15"/>
+    </Grid.ColumnDefinitions>
+
+
+    <DockPanel Grid.Row="1" Grid.Column="1">
+      <DockPanel DockPanel.Dock="Top">
+        <Button x:Name="Select1CButton" Width="60" DockPanel.Dock="Left" Margin="0,0,15,0" Content="1C" Click="Select1CButton_Click" />
+        <Label Content="Имя COM-объекта 1С:"  DockPanel.Dock="Left"/>
+        <TextBox x:Name="NameCOMObject1C"/>
+      </DockPanel>
+      <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,0,0,10">
+        <Label Width="190" Content="Строка инициализации: " DockPanel.Dock ="Top"/>
+      </StackPanel>
+
+      <DockPanel DockPanel.Dock="Top" Margin="0,0,0,10">
+        <TextBox x:Name="InitString"  Height="Auto"/>
+      </DockPanel>
+
+
+    </DockPanel>
+
+  </Grid>
+</Window>

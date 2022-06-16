@@ -1,0 +1,64 @@
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\App.g.cs
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\MainWindow.baml
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.g.resources
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\3ИС2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\App.baml
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\App.g.cs
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\App.baml
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\MainWindow.baml
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.g.resources
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\3-ИС-2\Пахомов Игорь\Системное\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\App.g.cs
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\App.baml
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\MainWindow.baml
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Kriptik\Desktop\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\App.g.cs
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\App.baml
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\MainWindow.baml
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Kriptik\Desktop\FOLDER BIG\3-ИС-2\Системное\TestApp\TestApp\obj\Debug\TestApp.pdb
